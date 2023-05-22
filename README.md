@@ -49,4 +49,4 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 - ✅ Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
 
 # Autor
-[![GitHub](https://img.shields.io/badge/ManuelGonzalez88-black?logo=github&logoColor=FFFFFF&style=plastic)](https://github.com/ManuelGonzalez88)
+[![GitHub](https://img.shields.io/badge/ManuelGonzalez88-black?logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/ManuelGonzalez88)
