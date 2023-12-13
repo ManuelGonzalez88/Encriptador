@@ -20,13 +20,10 @@ La página web cuenta con campos para que el usuario pueda ingresar el texto que
 ---
 ## 🖥️ Tecnologías Utilizadas:
 
-- Java
-- Eclipse
-- Biblioteca JCalendar
-- MySql
-- JDBC, clase Controller, clase DAO
-- Plugin WindowBuilder </br>
-
+- HTML
+- CSS
+- JavaScript
+  
 ---
 
 # 📒 Diccionarios
