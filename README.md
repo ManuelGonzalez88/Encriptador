@@ -17,7 +17,7 @@ Este proyecto es una aplicación que utiliza HTML, CSS, JavaScript para encripta
 
 La página web cuenta con campos para que el usuario pueda ingresar el texto que desea encriptar o desencriptar y seleccionar la opción correspondiente. El resultado de la operación se muestra en la pantalla y existe la opción de copiar el texto encriptado o desencriptado al portapapeles mediante un botón de "copiar".
 
-Link de encriptador: <a src="https://manuelgonzalez88.github.io/Encriptador/">manuelgonzalez88.github.io/Encriptador/</a>
+Link de encriptador: <a href="https://manuelgonzalez88.github.io/Encriptador/">manuelgonzalez88.github.io/Encriptador/</a>
 
 ---
 ## 🖥️ Tecnologías Utilizadas:
